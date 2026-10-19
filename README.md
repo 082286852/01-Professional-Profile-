@@ -1,6 +1,6 @@
 Electrical Apprenticeship Portfolio of Evidence
 
-About Me
+(i) About Me
 
 
 My name is Mamoloko Gernivah Sasa, and I am an electrical apprentice based in Gauteng, South Africa.
@@ -11,7 +11,7 @@ I am passionate about electrical engineering and developing the practical skills
 
 
 
-Career Objective
+(ii) Career Objective
 
 
 
@@ -19,7 +19,7 @@ My goal is to become a qualified electrician with strong knowledge of electrical
 
 
 
-Skills and Knowledge
+(iii) Skills and Knowledge
 
 
 
@@ -45,7 +45,7 @@ These skills and topics will be updated as I progress through my apprenticeship 
 
 
 
-Portfolio of Evidence
+(iv) Portfolio of Evidence
 
 
 
@@ -72,7 +72,7 @@ I am continuously working to improve my technical knowledge, practical abilities
 
 
 
-Contact
+(v) Contact
 
 
 Location: Gauteng, South Africa
